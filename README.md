@@ -8,7 +8,7 @@ The purpose of this challnage is to:
 * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 ## Linear Regression to Predict MPG
-![](images\filename%20segment_1_summary_of_linear_regression.png)
+![](images/segment_1_summary_of_linear_regression.png)
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
     * 
