@@ -27,5 +27,15 @@ Yes, the current manufacturing data does meet the design specification for all m
 ![](images/segment_3_all_tests.png)<br/>
 Assuming our significance level was the common 0.05 percent, the p-values for all three lots were above it. Thus showing that there is no reason to reject the null hypthisis, meaning the sample means of each lot is about the same a te population mean.
 
+## Study Design: MechaCar vs Competition
+There are a few ways that we can compare MechaCar performance to the performance of other competition using statistical study.
+Such as:
+* MPG could tell us more about FUle effeciency.
+* vehical_weight could tell us about drive type
+* etc
 
-    
+The null hypothesis is that MechaCar preforms simnilarly in fuel effecency and drive type to tother competitors
+
+A good wasy to test this hypothises is to used a t-test, this will help compare mechacar to competitors.
+
+The data needwed for this would be similar to what we have now however for other car brands.
